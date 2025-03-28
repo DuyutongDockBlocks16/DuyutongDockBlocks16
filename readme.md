@@ -1,14 +1,25 @@
 # Hi there, I'm Yutong Du! 👋
 
-![Profile Banner](https://your-image-url.com/banner.png)
 
 ## 🚀 About Me
 
 🎓 I'm a **Master's student in Communications Engineering at Aalto University**, with **4 years of experience** in data engineering and software engineering. Passionate about **data engineering, software engineering, full-stack development, distributed computing, and cloud infrastructure**.
 
+💼 Currently working as a **Research Assistant** at Aalto University, where I design and implement experiments for data collection and performance evaluation of machine learning models for grasping gestures.
+
+💡 Previously worked as an **Operation and Maintenance Engineer** at China Minsheng Banking Corp., where I created dashboards for system monitoring and maintained Java-based systems.
+
+👾 I have experience as a **Software Engineer** at JJ.cn, where I worked with multiple technology stacks to deliver a mobile game data service using Redis, MySQL, Python, Docker, and Kubernetes. I also deployed an AI data analysis tool for a mobile basketball game, constructed a MOBA game video recording converter, and developed a web crawler with Python and TypeScript.
+
+🌱 I have also gained experience as a **Data Engineer** at JD.COM, where I led a team to build a financial data ecosystem and developed ETL processes.
+
 💡 Currently working on **parallel computing, cloud scalability, and machine learning optimizations**.
 
 🌱 Exploring **AI-driven video processing** and **real-time streaming technologies**.
+
+## 📖 Technical Blog
+
+📝 Welcome to visit and follow my technical blog: [duyutongdock on Medium](https://medium.com/@duyutongdock).
 
 ## 🛠️ Tech Stack
 
@@ -77,6 +88,6 @@
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DuyutongDockBlocks16)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yutongdu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yutong-du-65750128b/)
 
 🚀 Let's collaborate and innovate together!
