@@ -111,6 +111,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How would you deduplicate 4 billion US phone numbers with 1GB of memory?](https://medium.com/@duyutongdock/how-would-you-deduplicate-4-billion-us-phone-numbers-with-1gb-of-memory-10eb7498aa58?source=rss-49fb0a11324d------2)
+- [How to improve System Observability?](https://medium.com/@duyutongdock/how-to-improve-system-observability-af2644830e0a?source=rss-49fb0a11324d------2)
+- [Solutions for data skew](https://medium.com/@duyutongdock/solutions-for-data-skew-8f714300eab1?source=rss-49fb0a11324d------2)
+- [Theory of Impact Analysis for System Changes &lpar;Part 3: Parameters change&rpar;](https://medium.com/@duyutongdock/theory-of-impact-analysis-for-system-changes-part-3-parameters-change-5a0096136ef3?source=rss-49fb0a11324d------2)
+- [Theory of Impact Analysis for System Changes &lpar;Part 2: APIs change and DB change&rpar;](https://medium.com/@duyutongdock/theory-of-impact-analysis-for-system-changes-part-2-apis-change-and-db-change-f9fcb876747d?source=rss-49fb0a11324d------2)
 <!-- BLOG-POST-LIST:END -->
 
 🚀 Let's collaborate and innovate together!
