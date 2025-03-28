@@ -17,6 +17,13 @@
 
 🌱 Exploring **AI-driven video processing** and **real-time streaming technologies**.
 
+## 🌟 Popular Repositories
+- **[meta-xr-hitscollider-optimizer](https://github.com/DuyutongDockBlocks16/meta-xr-hitscollider-optimizer)**  
+  A project focused on optimizing algorithms for human finger pointing recognition and estimation, inspired by recent research.
+
+- **[klotski_okehazama](https://github.com/DuyutongDockBlocks16/klotski_okehazama)**  
+  A fun implementation of the classic Klotski puzzle game.
+
 ## 📖 Technical Blog
 
 📝 Welcome to visit and follow my technical blog: [duyutongdock on Medium](https://medium.com/@duyutongdock).
