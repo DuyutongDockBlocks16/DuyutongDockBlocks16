@@ -90,4 +90,16 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DuyutongDockBlocks16)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yutong-du-65750128b/)
 
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuyutongDockBlocks16/DuyutongDockBlocks16/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuyutongDockBlocks16/DuyutongDockBlocks16/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/DuyutongDockBlocks16/DuyutongDockBlocks16/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
+
 🚀 Let's collaborate and innovate together!
