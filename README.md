@@ -3,11 +3,11 @@
 
 ## 🚀 About Me
 
-🎓 I'm a **Master's student in Communications Engineering at Aalto University**, with **4 years of experience** in data engineering and software engineering. Passionate about **data engineering, software engineering, full-stack development, distributed computing, and cloud infrastructure**.
+🎓 I'm a **PhD student in AI, Human-Computer Interaction, and Automation & Robotics with a focus on multi-agent systems and reinforcement learning at Aalto University**, with **4 years of experience** in data engineering and software engineering. Passionate about **data engineering, software engineering, full-stack development, distributed computing, and cloud infrastructure**.
 
-💼 Currently working as a **Research Assistant** at Aalto University, where I design and implement experiments for data collection and performance evaluation of machine learning models for grasping gestures.
+💼 Previously workied as a **Research Assistant** at Aalto University, where I design and implement experiments for data collection and performance evaluation of machine learning models for grasping gestures.
 
-💡 Previously worked as an **Operation and Maintenance Engineer** at China Minsheng Banking Corp., where I created dashboards for system monitoring and maintained Java-based systems.
+💡 Worked as an **Operation and Maintenance Engineer** at China Minsheng Banking Corp., where I created dashboards for system monitoring and maintained Java-based systems.
 
 👾 I have experience as a **Software Engineer** at JJ.cn, where I worked with multiple technology stacks to deliver a mobile game data service using Redis, MySQL, Python, Docker, and Kubernetes. I also deployed an AI data analysis tool for a mobile basketball game, constructed a MOBA game video recording converter, and developed a web crawler with Python and TypeScript.
 
